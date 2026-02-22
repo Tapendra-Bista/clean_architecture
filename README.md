@@ -3,6 +3,15 @@
 A robust, production-ready Flutter demonstration project implementing **Clean Architecture**, **Riverpod** for state management, and **Hive** for local persistence.
 
 ---
+## Screenshot 
+
+<img width="434" height="262" alt="Screenshot 2026-02-22 130221" src="https://github.com/user-attachments/assets/a95b9010-b461-4375-8dfa-5cbd508e513c" />
+
+
+<img width="377" height="961" alt="Screenshot 2026-02-22 130351" src="https://github.com/user-attachments/assets/83102ae2-76d3-4142-a574-af02460cc786" />
+
+<img width="335" height="746" alt="Screenshot 2026-02-22 125451" src="https://github.com/user-attachments/assets/4a1ed1d9-3f32-4706-b46c-42f154bb885e" />
+
 
 ## 🌟 Overview
 
